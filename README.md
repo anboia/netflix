@@ -25,5 +25,7 @@ npm start
 ```
 
 ## Note:
-You need to have Firefox installed on you computer.
+- [Firefox](www.mozilla.org/firefox): You need to have Firefox installed on you computer.
+- [Node](nodejs.org/en/download/): The script was tested with the current version of node: 6.2.1
+
 
