@@ -1,0 +1,31 @@
+{
+  "name": "Netflix",
+  "version": "1.0.0",
+  "description": "Creates a 2 days Netflix account!",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^0.12.0",
+    "cheerio": "^0.20.0",
+    "selenium-webdriver": "^2.53.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "6.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anboia/netflix"
+  },
+  "keywords": [
+    "netflix",
+    "free",
+    "selenium",
+    "webdriver",
+    "experiment",
+    "cheerio"
+  ],
+  "author": "Andre Saboia",
+  "license": "MIT"
+}
