@@ -52,7 +52,7 @@ driver.findElement(by.css('button'))
     function (){
       console.log("tchau");
       driver.quit();
-    }, 5000
+    }, 180000
   );
 })
 .catch(function (e) {
